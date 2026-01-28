@@ -1,0 +1,4 @@
+1) Command + J = Terminal will open automaticly
+2) Frontendni  qurishda terminalga yoziladi => npm create vite@latest .
+3) Command + B = VS codeni folderlar turgan joyni ochadi yoki yopadi
+4) npm run build = frontendni react orqali run qilib beradi
